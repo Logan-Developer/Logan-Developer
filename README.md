@@ -18,9 +18,7 @@
 
 ## 📈 Pinned repositories
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin?username=Logan-Developer&repo=device_xiaomi_cepheus&hide_border=true&theme=tokyonight" />
-</p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Logan-Developer&repo=device_xiaomi_cepheus&hide_border=true&theme=tokyonight)](https://github.com/Logan-Developer/device_xiaomi_cepheus)
 
 <!--
 **Logan-Developer/Logan-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
