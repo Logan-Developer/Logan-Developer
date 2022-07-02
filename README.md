@@ -3,7 +3,7 @@
 ## 💬 Quick introduction of myself
 - 🎓 I am currently a student in I.T
 - 💻 I love programming all sorts of things
-- 🗺️ I currently live in France, but I am planning to quit this country for an anglophone's one
+- 🗺️ I currently live in France, but I am planning to quit this country for the United States 🇺🇸 or Canada 🇨🇦
 
 ## 💬 During my free time...
 - I enjoy working on personal programming projects to improve my skills, try something I learned by myself or at the college (websites, mobile/desktop apps, little games, ...)
