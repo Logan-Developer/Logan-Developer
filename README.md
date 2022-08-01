@@ -19,6 +19,7 @@
 ## 📈 Pinned repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Evolution-x-Devices&repo=device_xiaomi_cepheus&hide_border=true&theme=tokyonight)](https://github.com/Evolution-X-Devices/device_xiaomi_cepheus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Evolution-x-Devices&repo=kernel_xiaomi_cepheus&hide_border=true&theme=tokyonight)](https://github.com/Evolution-X-Devices/kernel_xiaomi_cepheus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Logan-Developer&repo=my-ufr-planning&hide_border=true&theme=tokyonight)](https://github.com/Logan-Developer/my-ufr-planning)
 
 <!--
